@@ -29,9 +29,7 @@ Here are some ideas to get you started:
   About Me
 </h2>
 
-<table>
-  <tr>
-    <td width="60%" align="justify">
+<p align="left">
 🔭 Building web apps that connect the world and boost my skills 🌍💻.  
 <br><br>
 👯 Open to collaborations on full-stack projects 🚀.
@@ -41,14 +39,12 @@ Here are some ideas to get you started:
 🌱 Learning cutting-edge web technologies to make smarter apps 🧑‍💻⚡.
 <br><br>
 ⚡ Fun fact: I automate everything – the lazier I am, the smarter my code gets 😅💻.
+</p>
 
-  </td>
-    <td width="40%" align="center">
-      <img alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpydGFvb3BuOGpzcXc4YTg1MDk5MzM3amVnbHRpZWFzdDIyM293dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+   <img align="center" alt="Coding" width="300" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpydGFvb3BuOGpzcXc4YTg1MDk5MzM3amVnbHRpZWFzdDIyM293dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
+</p>
 
 <h2 id="socials">
  🌐 Socials
@@ -143,9 +139,10 @@ Here are some ideas to get you started:
 </h2>
 <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=abdulwahabmunirbutt&theme=radical&border=false&include_all_commits=true&count_private=true&show_icons=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabmunirbutt&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabmunirbutt&theme=radical&hide_border=false)             | <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">          |
+![](https://github-readme-stats.vercel.app/api?username=abdulwahabmunirbutt&theme=radical&border=false&include_all_commits=true&count_private=true&show_icons=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabmunirbutt&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabmunirbutt&theme=radical&hide_border=false)    
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">          |
 
 </div>
 
