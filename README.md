@@ -165,9 +165,20 @@ Here are some ideas to get you started:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </div>
 
+<h2 id="stats">
+  🐍 
+  Snake eats Contribution
+</h2>
 
-<!--END_SECTION:waka-->
-![views since 2022](https://visitor-badge-deno.deno.dev/abdulwahabmunirbutt.abdulwahabmunirbutt.svg?theme=light&style=flat)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdulwahabmunirbutt/abdulwahabmunirbutt/output/github-snake-dark.svg" />
+</div>
+
+<br>
+<p align="center">
+  <img src="https://visitor-badge-deno.deno.dev/abdulwahabmunirbutt.abdulwahabmunirbutt.svg?theme=dark&style=flat" alt="views since 2022" />
+</p>
+
 
 
 
