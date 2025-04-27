@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br> <!-- This adds the space -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=E22FE4&center=true&width=480&height=48&lines=Hi👋+I'm+Abdul+Wahab...;Full+Stack+Developer+💻...;Web+3.0+Developer+🌐...;Software+Engineer+🛠️...;Nice+To+Meet+You+🙂..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=E22FE4&center=true&width=480&height=48&lines=Hi👋+I'm+Abdul+Wahab...;Full+Stack+Developer+💻...;Software+Engineer+🛠️...;Nice+To+Meet+You+🙂..." alt="Typing SVG" />
 </p>
 
 
@@ -32,13 +32,17 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td width="60%" align="justify">
-      <p>
-        I'm a passionate <b>Full Stack Developer & Web3.0 Engineer</b> with expertise in building modern web applications and decentralized solutions. Currently working on <b>Internet Computer</b> using <b>React & Motoko</b>, I'm dedicated to creating innovative solutions that leverage the power of blockchain technology.
-      </p>
-      <p>
-        As the <b>Founder & Former Chair @ IEEE CS MUST</b> and an <b>IEEEXtreme 18.0 Student Ambassador</b>, I'm committed to fostering tech communities and sharing knowledge. My experience as a <b>Microsoft Learn Student Ambassador</b> has further enhanced my leadership and technical skills.
-      </p>
-    </td>
+🔭 Building web apps that connect the world and boost my skills 🌍💻.  
+<br><br>
+👯 Open to collaborations on full-stack projects 🚀.
+<br><br>
+🤝 Seeking full-stack opportunities (and maybe a scholarship 😉🎓).
+<br><br>
+🌱 Learning cutting-edge web technologies to make smarter apps 🧑‍💻⚡.
+<br><br>
+⚡ Fun fact: I automate everything – the lazier I am, the smarter my code gets 😅💻.
+
+  </td>
     <td width="40%" align="center">
       <img alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpydGFvb3BuOGpzcXc4YTg1MDk5MzM3amVnbHRpZWFzdDIyM293dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
     </td>
@@ -46,10 +50,18 @@ Here are some ideas to get you started:
 </table>
 
 
+<h2 id="socials">
+ 🌐 Socials
+</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/wahabmunir" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahabmunir" height="30" width="40" style="display: inline-block; margin-right: 10px;" /></a>
+  <a href="https://instagram.com/abdul_wahab_64" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_wahab_64" height="30" width="40" style="display: inline-block;" /></a>
+</div>
+
 
 <!-- Skills section with animated icons -->
 <h2 id="skills">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> 
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" height="30"> 
   Skills & Technologies
 </h2>
 <div align="center">
@@ -124,22 +136,40 @@ Here are some ideas to get you started:
   </a>
 </p>
 </div>
+
+<h2 id="stats">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  GitHub Stats
+</h2>
 <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=abdulwahabmunirbutt&theme=radical&border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabmunirbutt&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=abdulwahabmunirbutt&theme=radical&border=false&include_all_commits=true&count_private=true&show_icons=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabmunirbutt&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact) |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabmunirbutt&theme=radical&hide_border=false)             | <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">          |
 
 </div>
 
+<h2 id="trophy">
+  🏆
+  GitHub Trophies
+</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulwahabmunirbutt&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophy">
+</div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--START_SECTION:waka-->
 
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-```
+<h2 id="qout">
+✍️ Random Dev Quote
+</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</div>
+
+
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
+![views since 2022](https://visitor-badge-deno.deno.dev/abdulwahabmunirbutt.abdulwahabmunirbutt.svg?theme=light&style=flat)
+
+
+
+
