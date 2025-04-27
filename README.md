@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-   <img align="center" alt="Coding" width="300" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpydGFvb3BuOGpzcXc4YTg1MDk5MzM3amVnbHRpZWFzdDIyM293dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+   <img align="center" alt="Coding" width="300" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpydGFvb3BuOGpzcXc4YTg1MDk5MzM3amVnbHRpZWFzdDIyM293dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 </p>
 
